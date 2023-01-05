@@ -1,0 +1,11 @@
+import java.awt.*;
+import java.applet.*;
+
+public class johanew extends Applet{
+
+public void paint(Graphics g)
+{
+g.drawOval(40,40,120,150);
+g.drawString("Sup Bitches",100,100);
+}
+}
